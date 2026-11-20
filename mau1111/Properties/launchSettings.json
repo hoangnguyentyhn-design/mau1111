@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "G:\\robo\\Revit 2025\\Revit.exe"
+      "workingDirectory": "G:\\robo\\Revit 2025",
+      "commandLineArgs": ""
+    }
+  }
+}
